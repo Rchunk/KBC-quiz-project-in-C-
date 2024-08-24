@@ -1,0 +1,60 @@
+Which of the following statements is correct when a class is inherited publicly?
+Public members of the base class become protected members of derived class.
+Public members of the base class become private members of derived class.
+Private members of the base class become protected members of derived class.
+Public members of the base class become public members of derived class.
+D
+Which of the following statements is correct about the constructors and destructors?
+Destructors can take arguments but constructors cannot.
+Constructors can take arguments but destructors cannot.
+Destructors can be overloaded but constructors cannot be overloaded.
+Constructors and destructors can both return a value.
+B
+Which of the following access specifies is used in a class definition by default?
+Protected
+Public
+Private
+Friend
+C
+Which of the following statement is correct with respect to the use of friend keyword inside a class?
+A private data member can be declared as a friend.
+A class may be declared as a friend.
+An object may be declared as a friend.
+We can use friend keyword as a class name.
+B
+Which of the following keywords is used to control access to a class member?
+Default
+Break
+Protected
+Asm
+C
+Which of the following can access private data members or member functions of a class?
+Any function in the program.
+All global functions in the program.
+Any member function of that class.
+Only public member functions of that class.
+C
+Which of the following type of data member can be shared by all instances of its class?
+Public
+Inherited
+Static
+Friend
+C
+Which of the following also known as an instance of a class?
+Friend Functions
+Object
+Member Functions
+Member Variables
+B
+Constructor is executed when _____.
+an object is created
+an object is used
+a class is declared
+an object goes out of scope.
+A
+Which of the following statements about virtual base classes is correct?
+It is used to provide multiple inheritance.
+It is used to avoid multiple copies of base class in derived class.
+It is used to allow multiple copies of base class in a derived class.
+It allows private members of the base class to be inherited in the derived class.
+B
